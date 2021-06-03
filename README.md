@@ -56,7 +56,6 @@ Sharing my hackintosh setup =D
 ## Software:
 
 -   [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
--   [[Resources] Picker GUI](https://github.com/acidanthera/OcBinaryData/tree/master/Resources)
 -   [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
 -   [[SSDT] EC-USBX-DESKTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-DESKTOP.aml)
 -   [[Driver] OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
