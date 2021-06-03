@@ -57,7 +57,7 @@ Sharing my hackintosh setup =D
 
 -   [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
 -   [[Patch] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
-https://github.com/corpnewt/SSDTTime
+-   [[Tool] SSDTTime](https://github.com/corpnewt/SSDTTime)
 -   [[Driver] OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
 -   [[Driver] OpenCanopy](https://github.com/acidanthera/OpenCorePkg)
 -   [[Driver] OpenHfsPlus](https://github.com/acidanthera/OpenCorePkg)
