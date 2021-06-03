@@ -5,7 +5,7 @@ Sharing my hackintosh setup =D
 
 Running perfectly but with some Err(0xE) messages at startup
 
-------------------------------------------------------------------------------------------------------------------------
+
 00:000 00:000 AAPL: #[EB.H.IS|!] Err(0xE) <- RT.GV boot-signature 7C436110-AB2A-4BBB-A880-FE41995C9F82
 00:001 00:001 AAPL: #[EB.H.IS|!] Err(0xE) <- RT.GV boot-image-key 7C436110-AB2A-4BBB-A880-FE41995C9F82
 00:008 00:001 AAPL: #[EB.CFG.DEV|!] Err(0xE) <- RT.GV booter-strict-xmlparser 7C436110-AB2A-4BBB-A880-FE41995C9F82
@@ -24,4 +24,4 @@ Running perfectly but with some Err(0xE) messages at startup
 00:140 00:001 AAPL: #[EB.WL.DT|!] Err(0xE) <- EB.WL.PWLFRTC
 00:146 00:002 AAPL: #[EB.LD.OFS|OPEN!] Err(0xE) 
 01:759 00:001 AAPL: #[EB.B.WFDW|!WF] Err(0xE) 0
-------------------------------------------------------------------------------------------------------------------------
+
